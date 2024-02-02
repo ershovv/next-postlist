@@ -1,6 +1,6 @@
 Мой сайт на nextJS 
 
-[ershovv.com](ershovv.com)
+[ershovv.com](https://ershovv.com)
 
 - арендовал vps + домен 
 - базовая безопасность - (настроил пользователя, правила подключения, ufw)
