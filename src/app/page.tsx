@@ -1,7 +1,6 @@
 import { CreatePostForm } from "@/features/postList/pub/CreatePostForm";
 import { PostList } from "@/features/postList/pub/PostList";
 import {dbClient } from "@/shared/lib/db";
-import { Button } from "@/shared/ui/button";
 
 export default async function Home() {
 
